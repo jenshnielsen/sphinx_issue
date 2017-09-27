@@ -1,0 +1,6 @@
+*.pyc
+.idea/
+.coverage
+.project
+.pydevproject
+.mypy_cache/
